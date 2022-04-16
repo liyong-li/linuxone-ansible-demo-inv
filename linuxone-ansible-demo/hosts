@@ -30,3 +30,6 @@ bastion
 
 [ansible_tower_ip]
 192.168.56.101
+
+[svc_host]
+svcstorage
