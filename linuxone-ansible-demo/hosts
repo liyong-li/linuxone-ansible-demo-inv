@@ -28,3 +28,5 @@ infrasys
 [dev_rhel8]
 bastion
 
+[ansible_tower_ip]
+192.168.56.101
